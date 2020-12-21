@@ -1,0 +1,9 @@
+name: '674_07'
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - geopandas
+  - matplotlib
+prefix: C:\Users\tromb\miniconda3\envs\674_07
